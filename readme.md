@@ -2,7 +2,8 @@
 
 Advent Of Code 2023
 
-##Days
+## Days
 
-1 - C
-2 - php
+1. C
+2. php
+
