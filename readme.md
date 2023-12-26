@@ -10,4 +10,4 @@
 4. VX - Bash
 5. XX - Common Lisp
 
-And that'it, i didn't have the time for the rest :3👍
+And that's it, i didn't have the time for the rest :3👍
